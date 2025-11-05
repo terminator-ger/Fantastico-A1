@@ -1,4 +1,5 @@
-#deck:Fantastico! - 10 - Rivediamo 2
+#html:true
+#deck:Fantastico! A1::IT -> DE::10 - Rivediamo 2
 "il rito";"Ritual"
 "lo stuzzichino";"(Appetit)Happchen"
 "le patatine pl";"Chips"
@@ -11,7 +12,7 @@
 "la meta";"Halfte"
 "affermarsl";"sich durchsetzen"
 "altro/a";"andere/r/s"
-"l'apericena";"Alternative zum Abend-<br>essen, bei dem man sich<br>zusatzlich zu einem<br>Getrank an einem Buffet<br>bedienen kann"
+"l'apericena";"Alternative zum Abend- <br> essen, bei dem man sich <br> zusatzlich zu einem <br> Getrank an einem Buffet <br> bedienen kann"
 "derivare da";"Stammenyon"
 "Il/la sostituto/a";"Ersatz"
 "il buffet";"Buffet"

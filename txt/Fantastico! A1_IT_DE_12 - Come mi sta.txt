@@ -1,4 +1,5 @@
-#deck:Fantastico! - 12 - Come Mi Sta
+#html:true
+#deck:Fantastico! A1::IT -> DE::12 - Come mi sta
 "stare";"hier: stehen (Kleidung)"
 "I pantalonl pl";"Hose"
 "la gonna";"Rock"
@@ -48,7 +49,7 @@
 "marrone";"braun"
 "grlglo/a";"grau"
 "I'armadio";"Schrank"
-"deve inf dovere";"er/sie/es muss"
+"deve <i> inf dovere </i>";"er/sie/es muss"
 "circolare";"Kreislauf-"
 "tenere"";"behalten"
 "usato/a";"gebraucht"
@@ -103,7 +104,7 @@
 "l'abbigliamento";"Keidung"
 "la maglla";"Pulli"
 "a in diretta da";"live aus"
-"la trasmisslone in<br>diretta";"Liveubertragung"
+"la trasmisslone in <br> diretta";"Liveubertragung"
 "ill marchlo";"Marke"
 "lo/la stilista";"Modedesigner/in"
 "la sfllata";"Modenschau"

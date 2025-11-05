@@ -1,4 +1,5 @@
-#deck:Fantastico! - 15 - Rivediamo 3
+#html:true
+#deck:Fantastico! A1::IT -> DE::15 - Rivediamo 3
 "la pausa pranzo";"Mittagspause"
 "la mensa";"Kantine, Menda"
 "IlPC";"PC"
