@@ -1,5 +1,5 @@
 #html:true
-#deck:Fantastico! A1::IT -> DE::09 - Aria di vacanza
+#deck:Fantastico! A1::09 - Aria di vacanza
 "sportivo/a";"Sport-, sportlich"
 "culturale";"Kultur-, kulturell"
 "relax";"Entspannungs-"

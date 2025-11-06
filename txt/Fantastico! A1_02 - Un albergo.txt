@@ -1,5 +1,5 @@
 #html:true
-#deck:Fantastico! A1::IT -> DE::02 - Un albergo
+#deck:Fantastico! A1::02 - Un albergo
 "l'albergo pl-ghi";"Hotel"
 "al mare";"am Meer"
 "la bala";"Bucht"

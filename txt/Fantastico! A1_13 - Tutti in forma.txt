@@ -1,5 +1,5 @@
 #html:true
-#deck:Fantastico! A1::IT -> DE::13 - Tutti in forma
+#deck:Fantastico! A1::13 - Tutti in forma
 "In forma";"in Form, fit"
 "la febbre";"Fieber"
 "l'occhlo";"Auge"

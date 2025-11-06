@@ -1,5 +1,5 @@
 #html:true
-#deck:Fantastico! A1::IT -> DE::04 - Nomi cosi citta
+#deck:Fantastico! A1::04 - Nomi cosi citta
 "lacosa";"Ding, Sache"
 "ill capoluogo pl-ghi";"Hauptstadt der Region"
 "la Ligurla";"Ligurien"

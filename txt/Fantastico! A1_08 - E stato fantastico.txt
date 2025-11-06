@@ -1,5 +1,5 @@
 #html:true
-#deck:Fantastico! A1::IT -> DE::08 - E stato fantastico
+#deck:Fantastico! A1::08 - E stato fantastico
 "e stato/a";"ist gewesen"
 "ill regalo";"Geschenk"
 "la madre";"Mutter"

@@ -1,5 +1,5 @@
 #html:true
-#deck:Fantastico! A1::IT -> DE::07 - Ti piace
+#deck:Fantastico! A1::07 - Ti piace
 "Ti place?";"Gefallt es dir?"
 "placere' a qualcuno";"jdm gefallen"
 "I'evento";"Event, Veranstaltung"

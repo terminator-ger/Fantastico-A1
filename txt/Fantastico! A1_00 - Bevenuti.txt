@@ -1,5 +1,5 @@
 #html:true
-#deck:Fantastico! A1::IT -> DE::00 - Bevenuti
+#deck:Fantastico! A1::00 - Bevenuti
 "benvenuto/a <br> <i> pl benvenuti/e </i>";"willkommen"
 "buonglorno";"guten Tag"
 "sono <i> inf essere </i>";"ich bin"

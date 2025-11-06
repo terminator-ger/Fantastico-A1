@@ -1,5 +1,5 @@
 #html:true
-#deck:Fantastico! A1::IT -> DE::03 - Che profumo
+#deck:Fantastico! A1::03 - Che profumo
 "Che profumo!";"Was fur ein Duft!"
 "Il profumo";"Duft"
 "amore mlo";"mein Liebling, mein <br> Schatz"

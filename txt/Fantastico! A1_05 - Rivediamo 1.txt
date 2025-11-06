@@ -1,5 +1,5 @@
 #html:true
-#deck:Fantastico! A1::IT -> DE::05 - Rivediamo 1
+#deck:Fantastico! A1::05 - Rivediamo 1
 "la nocdola";"Haselnuss"
 "la focacca pl-ce";"Focaccia,Fladenbrot"
 "da solo/a";"allein"

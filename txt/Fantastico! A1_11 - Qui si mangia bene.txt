@@ -1,5 +1,5 @@
 #html:true
-#deck:Fantastico! A1::IT -> DE::11 - Qui si mangia bene
+#deck:Fantastico! A1::11 - Qui si mangia bene
 "il primo";"erster Gang"
 "la panna cotta";"Pannacotta"
 "salato/a";"salzig"

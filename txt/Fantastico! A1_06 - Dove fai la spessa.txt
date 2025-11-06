@@ -1,5 +1,5 @@
 #html:true
-#deck:Fantastico! A1::IT -> DE::06 - Dove fai la spessa
+#deck:Fantastico! A1::06 - Dove fai la spessa
 "fare la spesa";"einkaufen"
 "la spesa";"Einkauf"
 "I'offerta";"Angebot"

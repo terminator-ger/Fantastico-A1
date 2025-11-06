@@ -1,5 +1,5 @@
 #html:true
-#deck:Fantastico! A1::IT -> DE::14 - Come a casa
+#deck:Fantastico! A1::14 - Come a casa
 "il barocco";"Barock"
 "l'appartamento";"Wohnung"
 "tranquillo/a";"ruhig"

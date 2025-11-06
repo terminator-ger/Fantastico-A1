@@ -1,5 +1,5 @@
 #html:true
-#deck:Fantastico! A1::IT -> DE::10 - Rivediamo 2
+#deck:Fantastico! A1::10 - Rivediamo 2
 "il rito";"Ritual"
 "lo stuzzichino";"(Appetit)Happchen"
 "le patatine pl";"Chips"

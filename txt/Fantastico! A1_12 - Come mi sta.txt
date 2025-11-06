@@ -1,5 +1,5 @@
 #html:true
-#deck:Fantastico! A1::IT -> DE::12 - Come mi sta
+#deck:Fantastico! A1::12 - Come mi sta
 "stare";"hier: stehen (Kleidung)"
 "I pantalonl pl";"Hose"
 "la gonna";"Rock"

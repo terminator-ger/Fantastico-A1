@@ -1,5 +1,5 @@
 #html:true
-#deck:Fantastico! A1::IT -> DE::01 - Primo in contro
+#deck:Fantastico! A1::01 - Primo in contro
 "primo/a";"erste/r/s"
 "I'incontro";"Treffen, Begegnung"
 "il mare";"Meer"
